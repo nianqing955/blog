@@ -51,7 +51,7 @@ ContainerPilot会定时进行health check 来监控容器中服务的运行情�
 * [NATS](https://github.com/devfacet/natsboard)
 * [Prometheus](https://prometheus.io)
 * [InfluxDB](https://github.com/influxdata/influxdb)
-![](../images/1.png)
+![](/images/1.png)
 
 图中带有Node标识的都是一个个的应用服务，其余的是示例中所用到一些网络及数据服务。并且这些服务都包在一个个的docker的容器中。
 下面我们将介绍上述相关的技术。可能偏向devOps了，所以没有深入了解，只当普及一下知识面。
